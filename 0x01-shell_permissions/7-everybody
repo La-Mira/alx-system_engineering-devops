@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod a+<F12>x ./hello
